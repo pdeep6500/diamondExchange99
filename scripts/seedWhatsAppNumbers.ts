@@ -12,7 +12,7 @@
 import mongoose from 'mongoose';
 import WhatsAppNumber from '../models/WhatsAppNumber';
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://mehakkamboj001_db_user:c6hmGPpWEzmxKOiK@diamondexchange99.7avhpkn.mongodb.net/diamond-exchange?retryWrites=true&w=majority&appName=diamondExchange99';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://Pdeep6500_db_user:UFNltGNfcp6gPryD@diamondexchange99.7avhpkn.mongodb.net/diamond-exchange?retryWrites=true&w=majority&appName=diamondExchange99';
 
 const sampleNumbers = [
     {
